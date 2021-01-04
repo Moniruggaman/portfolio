@@ -61,12 +61,12 @@ section{
 }
 #full-stack{
     border-left: 7px solid;
-    border-image: linerlinear-gradient(180deg, lightsalmon, tomato);
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
     border-image-slice: 1;
 }
 #baby-dev{
     border-left: 7px solid;
-    border-image: linerlinear-gradient(180deg, blue, cyan);
+    border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
 }
 footer p{
